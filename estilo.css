@@ -1,0 +1,171 @@
+/* Começo do css do MENU */
+
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    height:60px;
+    z-index: 9900;
+    text-align: justify;
+    background: linear-gradient(to right,#fe4164, #ff007f);
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    height: 50px;
+    background-color:white;
+    width: 100%;
+}
+
+.logo {
+    margin-left: 50px;
+    width: 100px;
+    height: 50px;
+    float: left;
+    background: url(img/Logo2.JPG) center center/100px no-repeat;
+}
+
+.menu ul {
+    margin-right: 50px;
+}
+
+.menu ul li {
+    display: inline;  
+    float: right;
+}
+
+menu a {
+    float: left;
+}
+    
+.menu ul li a {
+    display: block;
+    color: black;
+    padding: 10px 10px ; 
+}
+
+/* Fim do css do MENU */
+
+
+/* Começo do CSS da metade de baixo do início */
+
+#imagem_fundo {
+    background: url(img/FundodeBaixo.png);
+    text-align: center;
+    background-size: cover;
+}
+
+#titulo {
+    color: black;
+    padding-top: 10%;
+    font-size: 70px ;  
+}
+
+/* Fim do CSS da metade de baixo do início */
+
+
+/* COMEÇO | Podcast */
+
+section {
+    padding: 20px;
+    float: left;
+}  
+
+.destaque { 
+    background-color: white;
+    width: 100%;
+    border-left: 10%;
+    border-right: 10%;
+}
+
+.coluna {   
+    float: center;
+    padding: 10%;
+    padding-top: 2%;
+    position: relative;
+}
+
+.coluna {   
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+
+.dois {
+    width: 50%;
+    height: 50%; 
+}
+
+.dois {
+    width: 33.3%;
+    height: 33%; 
+}
+
+.doisfoto {
+    width:16.6%;
+    height: 33%; 
+}
+
+.doisfoto img {
+    float: left;
+}
+
+.icone {
+    border-radius: 5%;
+    width: 200px;
+    height: 200px;
+}
+
+.audio {
+    float: right;
+    margin-top: 3px;
+    width: 40%;
+    margin-right: 5%;
+}
+
+.audio2 {
+    float: left;
+    margin-top: 3px;
+    width: 40%;
+    margin-left: 5%;
+}
+
+.podcast {
+    width: 33%;
+    padding:0 2%;
+}
+
+/* COMEÇO | Informações do Podcast */
+
+.centertitle {
+    font-size:16; 
+    text-align: justify;
+}
+
+.justificado {
+    text-align: justify;
+    font-size:13; 
+    font-family: Verdana;
+}
+
+.por {
+    font-size:12; 
+    text-align: justify;
+}
+
+.roteiro {
+    float: right;
+    font-size:14; 
+    color: black;
+}
+
+.roteiro a {
+    color: black;
+}
+
+/* FIM | Informações do Podcast */
+
+/* FIM | Podcast */
+
+

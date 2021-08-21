@@ -168,4 +168,17 @@ section {
 
 /* FIM | Podcast */
 
+/*vacinação */
+
+.vacinaçao {
+       float: left;
+    padding: 0 5%;
+    position: relative;   
+}
+
+.coluna2 {
+    width: 40%;
+}
+
+/*fim da vacinação */
 

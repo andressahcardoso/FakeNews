@@ -175,7 +175,7 @@ section {
 /* COMEÇO | Rodapé */
 
 .bgGradiente {
-  background-color: rgb(235, 235, 235);
+  background: linear-gradient(to right,chartreuse, rgb(205, 250, 159));
 }
 
 .socialIcons {

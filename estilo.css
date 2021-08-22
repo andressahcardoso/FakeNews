@@ -196,7 +196,7 @@ section {
 /* COMEÇO | Rodapé */
 
 .bgGradiente {
-    background: linear-gradient(to right,chartreuse, rgb(205, 250, 159));
+    background-color: rgb(235, 235, 235);
 }
 
 .socialIcons {

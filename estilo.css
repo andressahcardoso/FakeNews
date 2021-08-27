@@ -7,7 +7,7 @@
     height:60px;
     z-index: 9900;
     text-align: justify;
-    background: linear-gradient(to right,#fe4164, #ff007f);
+     background: linear-gradient(to right,chartreuse, rgb(205, 250, 159));
 }
 
 .menu {

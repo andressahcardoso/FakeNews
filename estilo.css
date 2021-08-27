@@ -218,7 +218,7 @@ section {
     width: 40%;
     padding: 0.6%;
     border: solid;
-    border-color: #75fa64;
+    border-color: chartreuse;
 }
 
 .imputTexteNewsLetterNome {
@@ -226,7 +226,7 @@ section {
     width: 20%;
     padding: 0.6%;
     border: solid;
-    border-color: #75fa64;
+    border-color: chartreuse;
 }
 
 .btNewsLetter {
@@ -238,7 +238,7 @@ section {
     font-weight: bold;
     background-color: white ;
     border: solid;
-    border-color: #75fa64;
+    border-color: chartreuse;
 }
 
 /* Fim | Comentários */

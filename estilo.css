@@ -313,7 +313,23 @@ section {
         width: 100%;
         border-right: 0%;
     }
-
+    
+    .vacinaçao {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: 10px auto;
+        float: none;  
+    }
+    
+    .coluna2 {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: 10px auto;
+        float: none; 
+    }
+    
     /* INÍCIO | Foto Podcast */
 
     .doisfoto img {

@@ -303,3 +303,127 @@ section {
 
 /* FIM | Rodapé */
 
+/* COMEÇO | Configuração para o site ser responsivo */
+
+
+@media all and (max-width: 768px) {
+       
+
+    * {
+        width: 100%;
+        border-right: 0%;
+    }
+
+    /* INÍCIO | Foto Podcast */
+
+    .doisfoto img {
+        margin-left: 15px;
+        float: left;
+    }
+
+    /* FIM | Foto Podcast */
+
+    .audioteste {
+        visibility: visible;
+        display: block ;
+        width: 100%;
+        margin-right: 0%;
+    }
+    .audioteste audio {
+        visibility: visible;
+        display: block;
+    }
+    
+    audio {
+        display: none;
+        visibility: hidden;
+    }
+
+    .centertitle2 {
+        margin-top: 45%;
+        font-size:16; 
+        text-align: justify;
+    }
+
+    .menu ul {
+        visibility: hidden;
+    }
+
+    .logo {
+        margin-left: 120px;  
+    }
+    
+    .d-block {
+        visibility: hidden;
+    }
+    
+    #imagem_fundo {
+        background: url(Capturar.JPG);
+        text-align: center;
+        background-size: cover;
+        height: 50%;
+        width: 100%;
+    }
+
+    #titulo {
+        color: black;
+        padding-top: 10%;
+        font-size: 10px ;  
+    }
+
+    .destaque { 
+        border-top: 10%;
+    }
+    
+    .coluna, .dois, .tres, .quatro {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: 10px auto;
+        float: none;
+    }
+    
+    .destaque, .form, .btNewsLetter {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: 40px ;
+        float: none;
+    }
+    
+    .btNewsLetter {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: 24px ;
+        float: none;
+    }
+    
+    .audio, .destaque, .audio2 {
+        display: block;  
+    }
+    
+    .title, .titulo {
+        margin-left: 5px;
+    }
+    
+    .imputTexteNewsLetter, .imputTexteNewsLetterNome {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: -2px ;
+        float: none;
+    }
+    
+    .doisfoto img {
+        float: none;
+        text-align: center;
+    }
+    
+    .teste {
+        visibility: visible;
+    }
+}
+
+/* FIM | Configuração para o site ser responsivo */
+

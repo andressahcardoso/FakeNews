@@ -316,7 +316,7 @@ section {
     
     .vacinaçao {
         display: block;   
-        width: 80%;
+        width: 100%;
         padding: 0;
         margin: 10px auto;
         float: none;  
@@ -324,7 +324,7 @@ section {
     
     .coluna2 {
         display: block;   
-        width: 80%;
+        width: 100%;
         padding: 0;
         margin: 10px auto;
         float: none; 

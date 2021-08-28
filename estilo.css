@@ -358,7 +358,7 @@ section {
     }
     
     #imagem_fundo {
-        background: url(Capturar.JPG);
+        background: url(img/FotoPrincipal.JPG);
         text-align: center;
         background-size: cover;
         height: 50%;

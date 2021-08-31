@@ -248,13 +248,17 @@ section {
 /* COMEÇO | Vacinação */
 
 .vacinaçao {
-       float: left;
+    float: left;
     padding: 0 5%;
     position: relative;   
 }
 
-.coluna2 {
-    width: 50%;
+.coluna2Vacina {
+    width: 40%;
+}
+
+.colunaVacina {
+    width: 60%
 }
 
 .justificado2 {

@@ -4,10 +4,10 @@
     width: 100%;
     position: fixed;
     top: 0;
-    height:60px;
+    height:52px;
     z-index: 9900;
     text-align: justify;
-     background: linear-gradient(to right,chartreuse, rgb(205, 250, 159));
+     background-color: black;
 }
 
 .menu {

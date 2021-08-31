@@ -253,13 +253,10 @@ section {
     position: relative;   
 }
 
-.coluna2Vacina {
-    width: 60%;
+.coluna2 {
+    width: 50%;
 }
 
-.colunaVacina {
-    width: 40%
-}
 
 .justificado2 {
     text-align: justify;

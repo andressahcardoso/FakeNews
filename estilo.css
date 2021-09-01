@@ -288,6 +288,13 @@ section {
 /* FIM | Vacinação */
 
 
+/* COMEÇO | Recuo de parágrafo */
+.recuo { 
+    text-indent:3em 
+}
+
+/* FIM | Recuo de parágrafo */
+
 
 /* COMEÇO |Sobre */
 

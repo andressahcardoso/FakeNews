@@ -70,6 +70,7 @@ menu a {
 section {
     padding: 20px;
     float: left;
+     width: 100%;
 }  
 
 .destaque { 

@@ -271,6 +271,59 @@ section {
 
 /* FIM | Vacinação */
 
+
+
+/* COMEÇO |Sobre */
+
+
+#Sobre {
+    background-color: white;
+    text-align: center;
+}
+
+.coluna {   
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+
+.quatro {
+    width: 25%;
+}
+
+.FotoSobre {
+    width: 150px;
+    height: 150px; 
+}
+
+.RadiusFoto {
+    border-radius: 50%;
+}
+
+.Nome {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.alignleft {
+    margin-left: 12px;
+    text-align: left;
+}
+
+.centralizado {
+    text-align: center;
+    font-size:13; 
+    font-family: Verdana;
+}
+
+.centertitle {
+    font-size:20; 
+    text-align: center;
+}
+
+/* FIM | Sobre */
+
+
 /* COMEÇO | Rodapé */
 
 .bgGradiente {

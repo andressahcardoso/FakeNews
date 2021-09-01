@@ -139,7 +139,7 @@ section {
 
 /* COMEÇO | Informações do Podcast */
 
-.centertitle {
+.centertitlePodcast {
     font-size:16; 
     text-align: justify;
 }
@@ -163,6 +163,15 @@ section {
 
 .roteiro a {
     color: black;
+}
+
+.audioteste {
+    visibility: hidden;
+    display: none;
+}
+.audioteste audio {
+    visibility: hidden;
+    display: none;
 }
 
 /* FIM | Informações do Podcast */

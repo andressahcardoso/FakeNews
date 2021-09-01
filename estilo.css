@@ -279,12 +279,14 @@ section {
 #Sobre {
     background-color: white;
     text-align: center;
+    widht: 100%;
 }
 
 .coluna {   
     float: left;
     padding: 0 5%;
     position: relative;
+     widht: 100%;
 }
 
 .quatro {

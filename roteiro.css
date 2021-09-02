@@ -4,7 +4,7 @@
     width: 100%;
     position: fixed;
     top: 0;
-    height:60px;
+    height:52px;
     z-index: 9900;
     text-align: justify;
     background: linear-gradient(to right,chartreuse, rgb(205, 250, 159));
@@ -257,6 +257,7 @@ section {
 
 .socialIcons {
     width: 100%;
+    border-top: 3px;
 }
 
 .socialIcons a {
@@ -264,14 +265,12 @@ section {
     color: black;
     margin-right: 3px;
     opacity: 0.7;
+    border-top: 3px;
 }
 
 .socialIcons a:hover {
     opacity: 1;
-}
-
-.socialIcons a:last-child {
-    margin-right: 0;
+    border-top: 3px;
 }
 
 .direitos {

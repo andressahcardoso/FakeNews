@@ -131,7 +131,7 @@ section {
 .meio {
     width: 1%;
     padding:0 2%;
-    color: chartreuse;
+    color: #0cdd52;
 }
 
 
@@ -222,7 +222,7 @@ section {
     width: 40%;
     padding: 0.6%;
     border: solid;
-    border-color: chartreuse;
+    border-color: #0cdd52;
 }
 
 .imputTexteNewsLetterNome {
@@ -230,7 +230,7 @@ section {
     width: 20%;
     padding: 0.6%;
     border: solid;
-    border-color: chartreuse;
+    border-color: #0cdd52;
 }
 
 .btNewsLetter {
@@ -242,7 +242,7 @@ section {
     font-weight: bold;
     background-color: white ;
     border: solid;
-    border-color: chartreuse;
+    border-color: #0cdd52;
 }
 
 /* Fim | Comentários */
@@ -252,7 +252,7 @@ section {
 /* COMEÇO | Rodapé */
 
 .bgGradiente {
-  background: linear-gradient(to right,chartreuse, rgb(205, 250, 159));
+  color: black;
 }
 
 .socialIcons {

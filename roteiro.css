@@ -1,4 +1,4 @@
-/* Começo do css do MENU */
+/* COMEÇO | CSS do MENU */
 
 .header {
     width: 100%;
@@ -17,7 +17,6 @@
     background-color:white;
     width: 100%;
 }
-
 
 .logo {
     margin-left: 50px;
@@ -46,7 +45,8 @@ menu a {
     padding: 10px 10px ; 
 }
 
-/* Fim do css do MENU */
+/* FIM | CSS do MENU */
+
 
 
 /* COMEÇO | Podcast */
@@ -135,9 +135,7 @@ section {
 }
 
 
-
 /* COMEÇO | Informações do Podcast */
-
 
 .centertitle {
     font-size:16; 
@@ -170,6 +168,7 @@ section {
 }
 
 /* FIM | Informações do Podcast */
+
 
 /* COMEÇO | Comentários */
 
@@ -248,6 +247,8 @@ section {
 /* Fim | Comentários */
 
 /* FIM | Podcast */
+
+
 
 /* COMEÇO | Rodapé */
 

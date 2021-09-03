@@ -1,4 +1,4 @@
-/* Começo do css do MENU */
+/* COMEÇO | CSS do MENU */
 
 .header {
     width: 100%;
@@ -7,7 +7,7 @@
     height:52px;
     z-index: 9900;
     text-align: justify;
-     background-color: black;
+    background-color: black;
 }
 
 .menu {
@@ -20,6 +20,7 @@
 
 .logo {
     margin-left: 50px;
+    margin-bottom: 3px;
     width: 100px;
     height: 65px;
     float: left;
@@ -45,10 +46,10 @@ menu a {
     padding: 10px 10px ; 
 }
 
-/* Fim do css do MENU */
+/* FIM | CSS do MENU */
 
 
-/* Começo do CSS da metade de baixo do início */
+/* COMEÇO | CSS da metade de baixo do início */
 
 #imagem_fundo {
     background: url(img/FundodeBaixo.png);
@@ -62,7 +63,10 @@ menu a {
     font-size: 70px ;  
 }
 
-/* Fim do CSS da metade de baixo do início */
+/* FIM | CSS da metade de baixo do início */
+
+
+/* COMEÇO | Texto do início */
 
 .TextoInicial {
     margin-left: 7%;
@@ -70,12 +74,15 @@ menu a {
     width: 86%
 }
 
+/* FIM | Texto do início */
+
+
 /* COMEÇO | Podcast */
 
 section {
     padding: 20px;
     float: left;
-     width: 100%;
+    width: 100%;
 }  
 
 .destaque { 
@@ -260,6 +267,8 @@ section {
 
 /* FIM | Podcast */
 
+
+
 /* COMEÇO | Vacinação */
 
 .vacinaçao {
@@ -271,7 +280,6 @@ section {
 .coluna2 {
     width: 50%;
 }
-
 
 .justificado2 {
     text-align: justify;
@@ -293,7 +301,9 @@ section {
 /* FIM | Vacinação */
 
 
+
 /* COMEÇO | Recuo de parágrafo */
+
 .recuo { 
     text-indent:3em 
 }
@@ -301,8 +311,8 @@ section {
 /* FIM | Recuo de parágrafo */
 
 
-/* COMEÇO |Sobre */
 
+/* COMEÇO |Sobre */
 
 #Sobre {
     background-color: white;
@@ -314,7 +324,7 @@ section {
     float: left;
     padding: 0 5%;
     position: relative;
-     widht: 100%;
+    widht: 100%;
 }
 
 .quatro {
@@ -352,6 +362,7 @@ section {
 }
 
 /* FIM | Sobre */
+
 
 
 /* COMEÇO | Rodapé */
@@ -393,7 +404,6 @@ section {
 
 @media all and (max-width: 768px) {
        
-
     * {
         width: 100%;
         border-right: 0%;

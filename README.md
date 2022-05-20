@@ -10,6 +10,6 @@
 
 <h4> Autoras: </h4>
 
-<p> ➡️	Andressa Hensel Cardoso <br> ➡️	Juliana Prade Gomes <br> ➡️	Manoela Soares Matté  <br> ➡️	Maria Alice Cunha Maciel </p>
+<p> ◻️	Andressa Hensel Cardoso <br> ◻️	Juliana Prade Gomes <br> ◻️	Manoela Soares Matté  <br> ◻️	Maria Alice Cunha Maciel </p>
 
 <p> 📚 Cursando Ensino Médio Técnico em Tecnologia da Internet - Senac </p>

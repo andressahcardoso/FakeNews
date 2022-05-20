@@ -10,7 +10,7 @@
 
 <h4> Autoras: </h4>
 
-<p> Andressa Hensel Cardoso /n Juliana Prade Gomes </p>
+<p> Andressa Hensel Cardoso <br> Juliana Prade Gomes </p>
 <p> Manoela Soares Matté </p>
 <p> Maria Alice Cunha Maciel </p>
 
